@@ -1,0 +1,5 @@
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+configuration {
+    font: "TerminessNF:style=Bold:pixelsize=16:antialias=true:autohint=true";
+    }
